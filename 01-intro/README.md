@@ -2,6 +2,8 @@
 
 [Slides](https://docs.google.com/presentation/d/1IvpdODCWKs303HpFG7BMHZu8Xl6rM7JB3-VZRjPf3nQ/edit#slide=id.g1e9840d95a_0_50)
 
+[Playground](https://github.com/strvcom/ios-academy/raw/master/01-intro/SwiftBasics.playground.zip)
+
 ## Topics
 
 * variable declarations - `var`, `let`
