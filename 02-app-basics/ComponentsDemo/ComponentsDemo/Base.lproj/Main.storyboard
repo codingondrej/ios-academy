@@ -216,10 +216,23 @@
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" alignment="center" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="jo8-TU-4PY">
-                                        <rect key="frame" x="0.0" y="0.0" width="320" height="30"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="320" height="320"/>
                                         <subviews>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon-plane" translatesAutoresizingMaskIntoConstraints="NO" id="bzz-uE-BEt">
                                                 <rect key="frame" x="145" y="0.0" width="30" height="30"/>
+                                            </imageView>
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon-cog" translatesAutoresizingMaskIntoConstraints="NO" id="yPI-JO-4pk">
+                                                <rect key="frame" x="145" y="40" width="30" height="30"/>
+                                            </imageView>
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon-note" translatesAutoresizingMaskIntoConstraints="NO" id="UgP-VF-iUb">
+                                                <rect key="frame" x="145" y="80" width="30" height="30"/>
+                                            </imageView>
+                                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon-smile" translatesAutoresizingMaskIntoConstraints="NO" id="Zj4-gA-oqZ">
+                                                <rect key="frame" x="10" y="120" width="300" height="200"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" constant="300" id="eRl-VZ-YxZ"/>
+                                                    <constraint firstAttribute="height" constant="200" id="o3k-CM-Ir9"/>
+                                                </constraints>
                                             </imageView>
                                         </subviews>
                                     </stackView>
@@ -248,6 +261,9 @@
         </scene>
     </scenes>
     <resources>
+        <image name="icon-cog" width="30" height="30"/>
+        <image name="icon-note" width="30" height="30"/>
         <image name="icon-plane" width="30" height="30"/>
+        <image name="icon-smile" width="60" height="60"/>
     </resources>
 </document>

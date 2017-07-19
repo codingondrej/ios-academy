@@ -31,8 +31,8 @@
 | --- | --- |
 | [High-level Xcode overview](https://developer.apple.com/xcode/ide/) | Starting point for looking around in Xcode |
 | [Autolayout guide](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1) | All you need to know about autolayout |
-| [User interface catalog](https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503-CH1-SW2) | In depth guide about most of UIKit components |
-| [Views and Windows guide](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/UIKitUICatalog/index.html#//apple_ref/doc/uid/TP40012857-UIView-SW1) | A bit outdated, but contains lot of useful info |
+| [User interface catalog](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/UIKitUICatalog/index.html#//apple_ref/doc/uid/TP40012857-UIView-SW1) | In depth guide about most of UIKit components |
+| [Views and Windows guide](https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503-CH1-SW2) | A bit outdated, but contains lot of useful info |
 | [Asset catalog secrets](https://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know) | Features of asset catalogs |
 
 
@@ -59,7 +59,9 @@ Using playgrounds, write ATM implementation. Include all components and function
   * cannot insert two cards at once
 * Use protocols to specify interfaces between components
 
-### Simple contact list app
+### Read all the links in Resources section
+
+### Simple contact list app (Optional)
 
 * Show hardcoded list of contacts in table view
 * Allow deleting contacts
