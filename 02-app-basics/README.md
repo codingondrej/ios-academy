@@ -1,4 +1,4 @@
-# Introduction, programming and Swift basics
+# Introduction, programming and UI basics
 
 [Slides](https://docs.google.com/presentation/d/1T8O3T8P6nB8fvG8xoCsvzF8vzNiskmjNXF14baNXYeM)
 
